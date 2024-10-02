@@ -1,0 +1,19 @@
+{
+  "name": "exercise-1",
+  "version": "1.0.0",
+  "description": "exercise 1 linked with git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poojan-1510/Backend.git"
+  },
+  "author": "Poojan Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poojan-1510/Backend/issues"
+  },
+  "homepage": "https://github.com/poojan-1510/Backend#readme"
+}
